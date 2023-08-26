@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shirosakirukia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in PIM, CNN/DNN, ReRAM and Spark
+- 🌱 I’m currently learning Spark, gluten and velox
 - 📫 reach me at mkh4869@qq.com
 
 <!---
